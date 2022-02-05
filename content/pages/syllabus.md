@@ -45,19 +45,120 @@ You have two free late days (24 hour periods each) that you may use between Pape
 
 ### Grading
 
-| ACTIVITIES | POINTS (104 POINTS) |
-| --- | --- |
-| Paper 1 (Literature review) | 10 |
-| Paper 2 (Experiment 1) | 10 |
-| Paper 3 (Final) | 15 |
-| 4 CogLab summaries | 20 (5 points per CogLab) |
-| Science newspaper article | 5 |
-| Oral presentation of literature review (Paper 1) | 4 |
-| Oral presentation of experiment 1 (Paper 2) | 4 |
-| Oral presentation of experiment 2 (Paper 3) | 4 |
-| Oral presentation of CogLab | 4 |
-| Mid-term exam (in class) | 20 |
-| Participation in class | 8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS (104 POINTS)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 (Literature review)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 (Experiment 1)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 (Final)
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 CogLab summaries
+{{< tdclose >}}
+{{< tdopen >}}
+20 (5 points per CogLab)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Science newspaper article
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of literature review (Paper 1)
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of experiment 1 (Paper 2)
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of experiment 2 (Paper 3)
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of CogLab
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exam (in class)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -67,30 +168,373 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and project presentation | &nbsp; |
-| 2 | Variables and controls–signal detection theory | &nbsp; |
-| 3 | Single subject design and t-test | CogLab 1 (Visual Search) data due |
-| 4 |  {{< br >}}{{< br >}} Factorial design I and interaction {{< br >}}{{< br >}} CogLab 1 (Visual Search)–oral presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Factorial design II and ANOVA | CogLab 1 (Visual Search) written report due |
-| 6 | How to write a research paper | Literature list of references due |
-| 7 | How to write a news article and how to give a talk | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Project: literature review {{< br >}}{{< br >}} Oral presentation of articles of project {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Correlation and advanced data analysis | CogLab 2 (Apparent Motion) data due |
-| 10 | Paradigms of perception: psychophysics | Paper 1 due: literature review |
-| 11 |  {{< br >}}{{< br >}} Paradigms of perception: mid to high level perception {{< br >}}{{< br >}} CogLab 2 (Apparent Motion)–oral presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Paradigms of attention: selected and divided attention | CogLab 2 (Apparent Motion) written report due |
-| 13 | Paradigms of attention: visual search | CogLab 3 (Attentional Blink) data due |
-| 14 |  {{< br >}}{{< br >}} Issue spotters {{< br >}}{{< br >}} CogLab 3 (Attentional Blink)–oral presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Advanced paradigms in visual cognition | Paper 1 rewrite due |
-| 16 |  {{< br >}}{{< br >}} Cognitive neuroscience methods {{< br >}}{{< br >}} Check project statistics in class {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Project: oral presentation of experiment 2 | &nbsp; |
-| 18 | Computational neuroscience methods |  {{< br >}}{{< br >}} Paper 2 due {{< br >}}{{< br >}} CogLab 3 (Attentional Blink) report due {{< br >}}{{< br >}} CogLab 4 (Prototypes) data due {{< br >}}{{< br >}} Research Report due 5 days after Ses #18 {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Computational vis. cog: visual search {{< br >}}{{< br >}} CogLab 4 (Prototypes)–oral presentation {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | General review |  {{< br >}}{{< br >}} CogLab 4 (Prototypes) written report due {{< br >}}{{< br >}} CogLab 5 (Blind Spot) data due {{< br >}}{{< br >}}  |
-| 21 | Mid-term exam | Paper 2 rewrite due 2 days after Ses #21 |
-| 22 | Statistics project 3 | A science newspaper short article due |
-| 23 | Project: oral presentation of experiment 2 | CogLab 5 (Blind Spot) report due |
-| 24 | Special topic | &nbsp; |
-| 25 | Discussion of final paper | Paper 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and project presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Variables and controls–signal detection theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Single subject design and t-test
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 1 (Visual Search) data due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Factorial design I and interaction
+
+CogLab 1 (Visual Search)–oral presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Factorial design II and ANOVA
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 1 (Visual Search) written report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+How to write a research paper
+{{< tdclose >}}
+{{< tdopen >}}
+Literature list of references due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+How to write a news article and how to give a talk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project: literature review
+
+Oral presentation of articles of project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Correlation and advanced data analysis
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 2 (Apparent Motion) data due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigms of perception: psychophysics
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due: literature review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paradigms of perception: mid to high level perception
+
+CogLab 2 (Apparent Motion)–oral presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigms of attention: selected and divided attention
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 2 (Apparent Motion) written report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigms of attention: visual search
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 3 (Attentional Blink) data due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Issue spotters
+
+CogLab 3 (Attentional Blink)–oral presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced paradigms in visual cognition
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 rewrite due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cognitive neuroscience methods
+
+Check project statistics in class
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Project: oral presentation of experiment 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Computational neuroscience methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 2 due
+
+CogLab 3 (Attentional Blink) report due
+
+CogLab 4 (Prototypes) data due
+
+Research Report due 5 days after Ses #18
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Computational vis. cog: visual search
+
+CogLab 4 (Prototypes)–oral presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+General review
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+CogLab 4 (Prototypes) written report due
+
+CogLab 5 (Blind Spot) data due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 rewrite due 2 days after Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Statistics project 3
+{{< tdclose >}}
+{{< tdopen >}}
+A science newspaper short article due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Project: oral presentation of experiment 2
+{{< tdclose >}}
+{{< tdopen >}}
+CogLab 5 (Blind Spot) report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Special topic
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of final paper
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
