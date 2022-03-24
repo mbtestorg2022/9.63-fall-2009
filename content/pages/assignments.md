@@ -7,7 +7,7 @@ uid: 07f82fae-1234-9c12-55db-388eb85fa7a1
 References
 ----------
 
-Writing a paper: style at a glance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_63f09_assn01))
+Writing a paper: style at a glance ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn01))
 
 Writing a scientific paper ([PDF]({{< baseurl >}}/resources/mit9_63f09_assn05))
 

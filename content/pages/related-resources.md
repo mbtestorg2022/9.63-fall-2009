@@ -15,7 +15,7 @@ Single Factor Design and Statistics: t-test
 
 Exercise: Picture memory - data. Example of data for a yes/no memory task, with hit, false alarms, and d prime. ([PDF]({{< baseurl >}}/resources/mit9_63f09_rr01))
 
-t-test table (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit9_63f09_rr02))
+t-test table ([PDF]({{< baseurl >}}/resources/mit9_63f09_rr02))
 
 [t-test online](http://www.quantitativeskills.com/sisa/statistics/t-test.htm)
 
