@@ -4,6 +4,7 @@ description: Solutions to a midterm exam on experimental methods in human percep
   and cognition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-63-laboratory-in-visual-cognition-fall-2009/306c3510e1da480217111b24c7041a0d_MIT9_63F09_exam03.pdf
 file_type: application/pdf
+parent_uid: da05a14a-17a5-b615-dc61-b5189b09dafb
 resourcetype: Document
 title: Mid Term Fall 2008 Exam with answer key
 uid: 306c3510-e1da-4802-1711-1b24c7041a0d
